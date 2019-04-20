@@ -55,3 +55,7 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+
+data/
+data_1/
+.idea/
